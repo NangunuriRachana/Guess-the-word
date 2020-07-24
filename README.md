@@ -1,2 +1,2 @@
-# hello-world
-Sample repository.
+"Guess the word" program using Java
+   Author@NangunuriRachana
