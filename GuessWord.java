@@ -1,4 +1,7 @@
-//Create a frame window with 2 labels and 2 text fields. The first textfield should choose a word from an array list of words that are scrambled. The user should be prompted to enter the correct word and check the spelling by clicking the guess button. If the word is correct then a third label should print correct else it should print wrong. The user can click on another button called New word and the next word will be exhibited in the First textfield again.
+/*Create a frame window with 2 labels and 2 text fields. The first textfield should choose a word from an array list of words that are scrambled. 
+The user should be prompted to enter the correct word and check the spelling by clicking the guess button. If the word is correct then a third label
+should print correct else it should print wrong. The user can click on another button called New word and the next word will be exhibited in the 
+First textfield again.*/
 
 /*
 Guess the word : ________ (a random scrambled word from array list is selected and displayed here)
